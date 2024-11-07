@@ -1,1 +1,1 @@
-Get/Set Metoduyla araba örneği.
+--> Get/Set metodu kullanarak araba örneği.

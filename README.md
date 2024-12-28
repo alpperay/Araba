@@ -1,1 +1,1 @@
---> Get/Set metodu kullanarak araba örneği.
+--> Get/Set metoduyla yapılmış bir C# - Console projesi.

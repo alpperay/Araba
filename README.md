@@ -9,12 +9,12 @@ Bu proje, araçların özelliklerini tutan ve işleyen bir arac sınıfını iç
 ## Proje İçeriği
 
 1) **arac Sınıfı**:
- - Araçların marka, model, yakıt tipi, renk, şanzıman, şase numarası, üretim yılı ve fiyat gibi temel özelliklerini tanımlar.
- - Fiyat güncellenebilir ve araç bilgileri ekrana yazdırılabilir.
+- Araçların marka, model, yakıt tipi, renk, şanzıman, şase numarası, üretim yılı ve fiyat gibi temel özelliklerini tanımlar.
+- Fiyat güncellenebilir ve araç bilgileri ekrana yazdırılabilir.
 2) **Program.cs**:
- - arac sınıfından bir nesne oluşturur.
- - Nesnenin özelliklerini ekrana yazdırır.
- - Fiyatı günceller ve güncellenmiş bilgileri tekrar yazdırır.
+- arac sınıfından bir nesne oluşturur.
+- Nesnenin özelliklerini ekrana yazdırır.
+- Fiyatı günceller ve güncellenmiş bilgileri tekrar yazdırır.
 
 ## Araç Özellikleri
 

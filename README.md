@@ -33,9 +33,12 @@ Aşağıdaki örnekte, arac sınıfının nasıl kullanılacağı gösterilmekte
 - Yil: Aracın üretim yılı.
 - Fiyat: Aracın satış fiyatı.
 
-# Yazar
+# Katkıda Bulunma 
 
-Alp Eray Taşçı [github.com/alpperay]
+Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
+
+1) GitHub reposunu fork edin,
+2) Kendi değişikliklerinizi yapın ve pull request gönderin.
 
 
 

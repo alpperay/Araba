@@ -31,11 +31,12 @@ Bu proje, araçların özelliklerini tutan ve işleyen bir arac sınıfını iç
 
 Aşağıdaki örnekte, `arac` sınıfının nasıl kullanılacağı gösterilmektedir:
 
-```csharp
 arac a1 = new arac("Renault", "Megane", "Benzin", "Bordo", "Manuel", "615WE328FEMA1928AM1642", 2016, 25000);
 a1.Ozellikler(); // Araç bilgilerini yazdırır.
 a1.FiyatGuncelle(32000); // Fiyatı günceller.
 a1.Ozellikler(); // Güncellenmiş araç bilgilerini yazdırır.
+
+
 
 ## Katkıda Bulunma 
 
@@ -43,6 +44,7 @@ Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsini
 
 1) GitHub reposunu fork edin,
 2) Kendi değişikliklerinizi yapın ve pull request gönderin.
+
 
 
 

@@ -6,6 +6,17 @@ Bu proje, araçları temsil eden bir C# sınıfı (arac) ve bu sınıfı kullana
 
 Bu proje, araçların özelliklerini tutan ve işleyen bir arac sınıfını içerir. Kullanıcı, araç bilgilerini oluşturabilir, fiyatını güncelleyebilir ve aracın tüm özelliklerini görüntüleyebilir.
 
+## Kullanım
+
+1) Projeyi klonlayın:
+````bash
+git clone <repo-url>
+````
+2) Projeyi çalıştırın:
+````bash
+dotnet run
+````
+
 ## Proje İçeriği
 
 1) **arac Sınıfı**:
